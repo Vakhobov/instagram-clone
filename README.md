@@ -11,7 +11,6 @@ This project demonstrates REST API development, authentication systems, database
 - Python
 - Django
 - Django REST Framework (DRF)
-- FastAPI
 - PostgreSQL
 - SQLite (for development)
 - JWT / Token Authentication
@@ -33,14 +32,14 @@ This project demonstrates REST API development, authentication systems, database
 ---
 
 ## 📂 Project Structure
-instagram_clone/
-│
-├── users/ # User management & authentication
-├── post/ # Post CRUD functionality
-├── shared/ # Utilities & custom pagination
-├── templates/ # Email templates
-├── manage.py
-└── requirements.txt
+- instagram_clone/
+- │
+- ├── users/ # User management & authentication
+- ├── post/ # Post CRUD functionality
+- ├── shared/ # Utilities & custom pagination
+- ├── templates/ # Email templates
+- ├── manage.py
+- └── requirements.txt
 
 ---
 
